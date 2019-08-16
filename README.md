@@ -202,8 +202,8 @@
         * [Linux的cat命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的cat命令.md)(显示文件内容)
         * [Linux的more命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的more命令.md)(以一页一页的形式显示)
         * [Linux的less命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的less命令.md)(随意地浏览文件)
-        * [Linux的tail命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的tail命令.md)(从指定点开始将文件写到标准输出)
-        * [Linux的head命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的head命令.md)(显示文档结尾内容)
+        * [Linux的head命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的tail命令.md)(将一段文本的开头一部分写到标准输出)
+        * [Linux的tail命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的head命令.md)(显示文档结尾一段内容)
 
     * Linux 磁盘管理类命令
         * [Linux的df命令](https://github.com/sunnyandgood/BigData/blob/master/Linux/Linux%E5%91%BD%E4%BB%A4/Linux的df命令.md)(显示指定的文件系统的可用空间等信息)
